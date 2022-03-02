@@ -18,6 +18,7 @@ register("ja", () => import(/* webpackChunkName: "ja" */ "./lang/ja.json"));
 register("sv", () => import(/* webpackChunkName: "sv" */ "./lang/sv.json"));
 register("ur", () => import(/* webpackChunkName: "ur" */ "./lang/ur.json"));
 register("zh", () => import(/* webpackChunkName: "zh" */ "./lang/zh.json"));
+register("he", () => import(/* webpackChunkName: "he" */ "./lang/he.json"));
 
 init({
   fallbackLocale: "en",

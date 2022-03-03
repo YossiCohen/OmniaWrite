@@ -50,117 +50,117 @@
       "savestate": "שמור מצב"
     },
     "editor": {
-      "placeholder": "Let's write an awesome story!",
-      "switch": "Change Block",
-      "delete": "Delete",
-      "confirmDelete": "Are you sure?",
+      "placeholder": "בוא נרשום סיפור מהמם!",
+      "switch": "שנה תיבה",
+      "delete": "מחק",
+      "confirmDelete": "האם אתה בטוח?",
       "blocks": {
-        "paragraph": "Paragraph",
-        "heading": "Heading",
-        "quote": "Quote",
-        "code": "Monospace"
+        "paragraph": "פיסקה",
+        "heading": "כותרת",
+        "quote": "ציטוט",
+        "code": "מרווח קבוע"
       }
     },
     "overview": {
-      "opened": "opened",
-      "placeholder": "This project has no scenes yet."
+      "opened": "פתוח",
+      "placeholder": "בפרוייקט זה אין עדיין סצינות."
     }
   },
   "cloud": {
     "confirm": {
-      "text": "Your account is not verfied yet! Click here to verify your account.",
-      "success": "Confirmation e-mail has been sent!"
+      "text": "עדיין לא וידאת את החשבון, הקלק כאן כדי לוודא את החשבון.",
+      "success": "אימייל לאישור נשלח!"
     },
     "login": {
-      "title": "Login",
-      "email": "E-Mail",
-      "password": "Password",
-      "button": "Login",
-      "register": "Don't have an account yet?",
+      "title": "התחברות",
+      "email": "אימייל",
+      "password": "סיסמה",
+      "button": "התחבר",
+      "register": "אין לך חשבון עדיין?",
       "responses": {
-        "failed": "Login failed.",
-        "empty": "Login credentials can't be empty."
+        "failed": "התחברות נכשלה.",
+        "empty": "פרטי התחברות לא יכולים להיות ריקים."
       }
     },
     "register": {
-      "title": "Register",
-      "name": "Name",
-      "button": "Register",
-      "login": "Already have an account?",
+      "title": "הרשמה",
+      "name": "שם",
+      "button": "הרשם",
+      "login": "כבר יש לך חשבון?",
       "responses": {
-        "success": "Account created!",
-        "failed": "Registration failed.",
-        "empty": "Please fill out all fields!."
+        "success": "חשבון נוצר!",
+        "failed": "ההרשמה נכשלה.",
+        "empty": "נא למלא את כל השדות!."
       }
     },
     "reset": {
-      "title": "Forgot password?",
-      "button": "Reset password",
-      "success": "Please check your mail inbox for further instructions.",
-      "login": "Remembered? Log in here."
+      "title": "שכחת את הסיסמה?",
+      "button": "אתחול סיסמה",
+      "success": "אנא בדוק את האימייל ועקוב אחר ההוראות.",
+      "login": "נזכרת? כנס מראן."
     },
     "privacy": {
-      "show": "Privacy Policy"
+      "show": "מדיניות פרטיות"
     },
     "profile": {
-      "title": "Profile",
+      "title": "פרופיל",
       "name": {
-        "title": "Update name",
-        "success": "Name updated!",
+        "title": "עדכן שם",
+        "success": "שם עודכן!",
         "fields": {
-          "name": "Name"
+          "name": "שם"
         }
       },
       "email": {
-        "title": "Update e-mail",
-        "success": "E-mail updated!",
+        "title": "עדכן אימייל",
+        "success": "אימייל עודכן!",
         "fields": {
-          "email": "E-mail",
-          "password": "Password"
+          "email": "אימייל",
+          "password": "סיסמה"
         }
       },
       "password": {
-        "title": "Update password",
-        "success": "Password updated!",
-        "match": "Password have to match!",
+        "title": "עדכן סיסמה",
+        "success": "סיסמה עודכנה!",
+        "match": "הסיסמאות חייבות להיות זהות!",
         "fields": {
-          "old": "Current password",
-          "new": "New password",
-          "confirm": "Confirm password"
+          "old": "סיסמה נוכחית",
+          "new": "סיסמה חדשה",
+          "confirm": "חזור על הסיסמה"
         }
       },
-      "error": "Something went wrong :(",
-      "action": "Update"
+      "error": "אוי ואבוי, יש בעיה :(",
+      "action": "עדכן"
     },
     "logout": {
-      "title": "Logout",
-      "success": "Logout was successful. You will be redirected."
+      "title": "התנתק",
+      "success": "ההתנתקות הצליחה. מפנים אותך ליציאה."
     },
     "backups": {
-      "title": "Backups",
-      "migrating": "Migrating backup"
+      "title": "גיבויים",
+      "migrating": "העברת גיבוי"
     },
     "toast": {
-      "savedCloud": "Saved into cloud.",
-      "loginSuccessful": "Login successful!"
+      "savedCloud": "נשמר בענן.",
+      "loginSuccessful": "ההתחברות הצליחה!"
     },
     "security": {
-      "title": "Security",
+      "title": "אבטחה",
       "devices": {
-        "title": "Devices",
-        "os": "OS",
-        "country": "Country",
+        "title": "מכשירים",
+        "os": "מערכת הפעלה",
+        "country": "מדינה",
         "ip": "IP"
       },
       "logs": {
-        "title": "Activity logs",
-        "timestamp": "Timestamp",
-        "age": "Age",
-        "event": "Event",
+        "title": "יומני פעילות",
+        "timestamp": "חתימת זמן",
+        "age": "גיל",
+        "event": "ארוע",
         "account": {
           "update": {
-            "email": "E-mail changed",
-            "name": "Name changed"
+            "email": "אימייל השתנה",
+            "name": "שם השתנה"
           },
           "create": "Account created",
           "recovery": {
